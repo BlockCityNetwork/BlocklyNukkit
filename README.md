@@ -3,11 +3,9 @@
 #### Introduction
 Our online website: [Click to enter] https://tools.blocklynukkit.com/
 
-Blocklynukkit friendly interface Chinese plug-in editor is an open-source plug-in editor project initiated by super God Bingliang. Its purpose is to provide fresh, powerful, practical and concise Chinese server plug-in development services for the majority of service owners. It makes it easy for more service providers who want to develop their own plug-ins but are deterred from the obscure Java programming Develop all kinds of functions you want.
+Blocklynukkit friendly interface Chinese plug-in editor is an open-source plug-in editor project initiated by Surperice666. Its purpose is to provide fresh, powerful, practical and concise Chinese server plug-in development services for the majority of service owners. It makes it easy for more service providers who want to develop their own plug-ins but are deterred from the obscure Java programming Develop all kinds of functions you want.
 
-
-
-Our code is completely open source based on agpl3.0. Anyone can join us or contribute. If you are a user or a server, you can enter the tutorial here to learn how to use this project and build your own plug-in.
+Our code is completely open source based on AGPL3.0. Anyone can join us or contribute. If you are a user or a server, you can enter the tutorial here to learn how to use this project and build your own plug-in.
 
 #  Sponsor Us
 
