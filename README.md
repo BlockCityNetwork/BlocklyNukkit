@@ -106,7 +106,7 @@ Languages
 Now you can use Python 2.7 to make plug-ins
 Add full support for Python development plug-ins, just download additional py support packages to use Python plug-ins
 The support for Python development plug-ins will be synchronized with JavaScript. Python and JS use the same set of BN class libraries. All the BN class libraries of JS (except Java modules) can be called directly in Python without import
-Support all Python 2.7 native standard syntax and standard library, run time is the same as JS, compiled to Java bytecode run, do not worry about inefficiency
+Support all Python 2.7 native standard syntax and standard library, run time is the same as JS, compiled to Java bytecode run, do not worry about inefficiency.
 Download the python for BN support module: https://tools.blocklynukkit.com/pythonForBN.jar
 After downloading, put it directly under the ./plugins/BlocklyNukkit folder
 
