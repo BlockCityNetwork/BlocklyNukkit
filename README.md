@@ -13,27 +13,27 @@ Our code is completely open source based on AGPL3.0. Anyone can join us or contr
 
 # Some officially released BN plug-ins:
 - bins：[mcbbs for download](https://www.mcbbs.net/thread-1026281-1-1.html)
-- Airtech：[mcbbs download](https://www.mcbbs.net/thread-1025826-1-1.html)
-- OP check inventory：[mcbbs download](https://www.mcbbs.net/thread-1023528-1-1.html)
-- ironelevator：[mcbbs下载](https://www.mcbbs.net/thread-1022615-1-1.html)
-- BNTreeCutter：[mcbbs下载](https://www.mcbbs.net/thread-993246-1-1.html)
-- BNreper：[mcbbs下载](https://www.mcbbs.net/thread-997816-1-1.html)
-- NoteMusic：[mcbbs下载](https://www.mcbbs.net/thread-1015627-1-1.html)
-- DeathTeleport：[mcbbs下载](https://www.mcbbs.net/thread-1013139-1-1.html)
-- No void：[mcbbs下载](https://www.mcbbs.net/thread-1010990-1-1.html)
-- BoxArrange：[mcbbs下载](https://www.mcbbs.net/thread-1000413-1-1.html)
-- Auto brush stone machine：[mcbbs下载](https://www.mcbbs.net/thread-995834-1-1.html)
-- Kick menu：[minebbs下载](https://www.minebbs.com/resources/ekick.1088/)
-- Real-time CPS display：[mcbbs下载](https://www.mcbbs.net/thread-1027746-1-1.html)
-- Magic stick：[mcbbs下载](https://www.mcbbs.net/thread-1027698-1-1.html)
-- Gui play songs：[mcbbs下载](https://www.mcbbs.net/thread-1028589-1-1.html)
-- Building roads practice：[minebbs下载](https://www.minebbs.com/resources/coblocks-nk.1149/)
-- Bank：[minebbs下载](https://www.minebbs.com/resources/cobank.1165/)
-- Parkour：[minebbs下载](https://www.minebbs.com/resources/bn-corun.1172/)
-- ScriptBlock：[minebbs下载](https://www.minebbs.com/resources/bn-scriptblock.1180/)
-- Custom weapon：[minebbs下载](https://www.minebbs.com/resources/bn-blocklynukkit.1179/)
-- Parkour rewards：[minebbs下载](https://www.minebbs.com/resources/bn-lxrun.1181/)
-- Integral：[minebbs下载](https://www.minebbs.com/threads/bn-char_xjifen-x-bn.3891/)
+- Airtech：[mcbbs for download](https://www.mcbbs.net/thread-1025826-1-1.html)
+- OP check inventory：[mcbbs for download](https://www.mcbbs.net/thread-1023528-1-1.html)
+- ironelevator：[mcbbs for download](https://www.mcbbs.net/thread-1022615-1-1.html)
+- BNTreeCutter：[mcbbs for download](https://www.mcbbs.net/thread-993246-1-1.html)
+- BNreper：[mcbbs for download](https://www.mcbbs.net/thread-997816-1-1.html)
+- NoteMusic：[mcbbs for download](https://www.mcbbs.net/thread-1015627-1-1.html)
+- DeathTeleport：[mcbbs for download](https://www.mcbbs.net/thread-1013139-1-1.html)
+- No void：[mcbbs for download](https://www.mcbbs.net/thread-1010990-1-1.html)
+- BoxArrange：[mcbbs for download](https://www.mcbbs.net/thread-1000413-1-1.html)
+- Auto brush stone machine：[mcbbs for download](https://www.mcbbs.net/thread-995834-1-1.html)
+- Kick menu：[minebbs for download](https://www.minebbs.com/resources/ekick.1088/)
+- Real-time CPS display：[mcbbs for download](https://www.mcbbs.net/thread-1027746-1-1.html)
+- Magic stick：[mcbbs fordownload](https://www.mcbbs.net/thread-1027698-1-1.html)
+- Gui play songs：[mcbbs fordownload](https://www.mcbbs.net/thread-1028589-1-1.html)
+- Building roads practice：[minebbs for download](https://www.minebbs.com/resources/coblocks-nk.1149/)
+- Bank：[minebbs for download](https://www.minebbs.com/resources/cobank.1165/)
+- Parkour：[minebbs for download](https://www.minebbs.com/resources/bn-corun.1172/)
+- ScriptBlock：[minebbs for download](https://www.minebbs.com/resources/bn-scriptblock.1180/)
+- Custom weapon：[minebbs download](https://www.minebbs.com/resources/bn-blocklynukkit.1179/)
+- Parkour rewards：[minebbs for download](https://www.minebbs.com/resources/bn-lxrun.1181/)
+- Integral：[minebbs fordownload](https://www.minebbs.com/threads/bn-char_xjifen-x-bn.3891/)
   
   
 # 给bn插件开发者  
@@ -74,7 +74,7 @@ mcbbs对jar的好感度远高于js，[学习如何打包](https://www.mcbbs.net/
 ### 7.抓住痛点
 想想你开服的时候被没有这个插件难受到了什么地步，大肆渲染一下/滑稽
 
-## 更新日志 
+## Update log
 ### 1.2.7.5
 window
 
@@ -103,12 +103,12 @@ BNNPC
 
 Languages
 
-现在可以使用python2.7来制作插件了
-添加了对python开发插件的完全支持，只需要下载额外的py支持包即可使用python插件
-对于python开发插件的支持将与JavaScript保持同步，python与js使用同一套bn类库，所有js的bn类库(除了Java模块)之外都可以在python中直接调用，无需import
-支持全部的python2.7原生标准语法和标准库，运行时与js相同，编译为java字节码运行，不必担心效率低下问题
-pythonForBN支持模块下载：https://tools.blocklynukkit.com/pythonForBN.jar
-下载后直接放到./plugins/BlocklyNukkit文件夹下面即可
+Now you can use Python 2.7 to make plug-ins
+Add full support for Python development plug-ins, just download additional py support packages to use Python plug-ins
+The support for Python development plug-ins will be synchronized with JavaScript. Python and JS use the same set of BN class libraries. All the BN class libraries of JS (except Java modules) can be called directly in Python without import
+Support all Python 2.7 native standard syntax and standard library, run time is the same as JS, compiled to Java bytecode run, do not worry about inefficiency
+Download the python for BN support module: https://tools.blocklynukkit.com/pythonForBN.jar
+After downloading, put it directly under the ./plugins/BlocklyNukkit folder
 
 EventLoader
 
@@ -153,7 +153,7 @@ notemusic
 
 world
 
-- genLevel新增"OCEAN"海洋世界生成器
+- genLevel added "OCEAN" generator
 
 bug fixed
 
@@ -163,36 +163,36 @@ bug fixed
 
 blockitem  
 
-- 修复了nbt函数的错误
+- fixed error of nbt function
 
 EventLoader  
 
-- 修复了玩家判断错误的bug
+- Fixed player misjudgment bug
 
 entity  
 
-- 更换浮空字的pid为盔甲架的pid
+- Replace the floating word PID to the armor bracket PID
 
 Loader  
 
-- 现在bn插件控制台输出会使用文件名作为前缀而不是\[BlocklyNukkit\]
-- 非op不再可见bn命令
+- Now the BN plug-in console output will use the filename as a prefix instead of \[BlocklyNukkit\]
+- The BN command is no longer visible to non-OP
 
-编辑器  
+Editor 
 
-- 添加JSON模块
-- 添加jar在线编译器
+- added JSON module
+- added jar online compiler
 
 ### 1.2.7.2  
 
 manager
 
 - String formatJSON(String json)
-- 修复writeFile函数无法自动创建路径的错误
+- Fixed an error where the writeFile function could not automatically create a path
 
 ### 1.2.7.1  
 
-修复部分老版本nk/pn内核无法加载的错误  
+Fixed some bug where older NK/PN kernels could not load
 
 ### 1.2.7.0  
 
@@ -213,8 +213,8 @@ manager
 
 Loader
 
-- \_\_NAME\_\_ 表示加载的js文件的名称(可防御低级改名倒卖)
-- 新版发布后，24小时强制更新
+- \_\_NAME\_\_ represents the name of the loaded JS file (protects against low-level rename reselling)
+- After the release of the new version, mandatory updates 24 hours
 
 Custom/Modal/Simple (WindowBuilder)
 
